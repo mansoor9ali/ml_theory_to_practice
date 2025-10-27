@@ -1,3 +1,3 @@
 # medium
-Code repository for my medium articles
+Code repository by Dr. Roi Yehoshua medium articles
 https://medium.com/@roiyeho
